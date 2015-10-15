@@ -26,7 +26,6 @@ public class TimeChanged extends BroadcastReceiver {
         // you can check the updated time using Calendar c = Calendar.getInstance();
     	
     	System.out.println("Date Changed !");
-    	System.out.println("Date Changed !");
     	
     	
     /*	try {
